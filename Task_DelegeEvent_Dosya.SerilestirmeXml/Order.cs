@@ -10,6 +10,7 @@ namespace Task_DelegeEvent_Dosya.SerilestirmeXml
     [Serializable]
     public class Order
     {
+
         // Serileştirilecek nesne karmaşık bir nesneye referans için referans edilen 
         // nesne serileştirilirken element olarak kullanılacağı belirtilmelidir.
         // Bu konu ile ilgili daha detaylı olarak aşağıdaki konu başlığında bulabilirsiniz;
